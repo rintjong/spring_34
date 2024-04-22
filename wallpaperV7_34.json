@@ -1,0 +1,320 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "null",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"null",
+      "backup_ads_banner":"null",
+      "backup_ads_intertitial":"null",
+      "backup_ads_rewards":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "interval_intertitial": 11,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"2"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Enchanting Deer Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/4duhdqFg5KOz5K77nY-U8NKI00TvveSj8kUMrCddo8Gxyz6PAYyLFU0RD1g20oocloE=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.whitetaileddeer"
+    },
+    {
+      "id":2,
+      "title":"Blooming Daisy Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/MfkZ_4y0xRNv77vVkTYI0AOxgVgXUW7xCYXChm7YMTDvNMSgeBqx5c6IR6DKi_hmDA=w526-h296-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.daisyflowerwallpaper"
+    },
+    {
+      "id":3,
+      "title":"Thrilling Speedboat Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/RWyAPL8gM47jewkU6yOgLaJfE1Y9N_A1FGojcncaVme7GbttGG7MwG14N6cnkl0WVg=w2560-h1440-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.speedboatracingwallpaper"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Spring",
+      "image": "https://i.pinimg.com/564x/e1/93/db/e193dba0ee500fb10aea3ffd72793543.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/42/1e/dc/421edca731fbf7b2e4734de96d1cc54c.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/b5/2c/47/b52c47f68e88bcb54fb7c26b3300d821.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/19/4e/3b/194e3b72463069892b864cd8c6dbd0c7.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/15/c3/7f/15c37f1bd5a5ec37827aa43d3eb79534.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/6e/47/d6/6e47d691fe0ae45f831edfd37590f2f1.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/b5/40/38/b54038d49e9a75226b30f93533c58acc.jpg"
+    },
+	{
+      "id":7,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/e1/93/db/e193dba0ee500fb10aea3ffd72793543.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/0e/5d/b0/0e5db07440db09afc7763c3e3dfcb7dd.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/0f/6b/07/0f6b077bf894ad1410171f1de798dd6c.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/0f/93/5f/0f935f891476d37cde53e23baca00564.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/04/29/38/042938c5b58f9520ae0c6e695fb169d0.jpg"
+    },
+	{
+      "id":12,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/e5/38/24/e53824a81d78afaa42fedfcbc47818d1.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/16/79/c0/1679c06404236f8fdba9b79b338ac870.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/9b/a3/89/9ba3897ff7c5c1d52baed55022a9c33a.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/25/69/24/256924ffa2b14f3004703c032d4c8eef.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/5d/b2/e3/5db2e3f4d2ca693d7d1a59c92c1495a0.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/30/ea/4d/30ea4d6586e5df7ee8d24a466a4add52.jpg"
+    },
+	{
+      "id":18,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/84/7a/70/847a700e32f57c12df5f6e7a76e0c858.jpg"
+    },
+    {
+      "id": 19,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/f4/83/5e/f4835eb688b648a5d910625868a1dbf2.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/27/dc/07/27dc075c8b916f493dc7b0361f5a53d2.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/f9/ae/17/f9ae173a244631cc54f258fd9125d385.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/5f/5f/6e/5f5f6e8f85c67a921a49748f21036f8c.jpg"
+    },
+	{
+      "id":23,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/fd/bf/98/fdbf98cc03b92d5506758666386bac81.jpg"
+    },
+    {
+      "id": 24,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/f1/c2/92/f1c292c2e47610b5a8765ce48a1692b5.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/f5/b9/3a/f5b93accc152dc32d3f3b01b891dcf02.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/92/45/c8/9245c83aa02abd1965089876db5332c7.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/8e/4f/16/8e4f16d0502ddd65b4a60257a8715a42.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/e2/95/5a/e2955a071593d209a359d2af281f7d7a.jpg"
+    },
+	{
+      "id":29,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/81/77/ca/8177ca5e227b579b67c31b75b7e1b291.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/8c/79/5d/8c795d0d1c6bcc9d5e4760e23a08bcfa.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/86/fc/5b/86fc5bab27c75476d97bae1cd88c7681.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/09/68/fe/0968fe408eb47a7cec92c88c900e18b6.jpg"
+    },
+	{
+      "id":33,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/76/06/46/76064668e58a60559323df9c709e1f00.jpg"
+    },
+    {
+      "id": 34,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/15/40/94/154094e7be4164616fdbbe104c339641.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/e4/50/74/e450743d755a7f5e404001cfbbb7e5b1.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/ff/cc/5b/ffcc5bcb154294c86c6465957802aa2d.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/0f/f9/bc/0ff9bcd30df91777b103b6c2b232e467.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/69/75/80/69758024899c15f4da222a8a8e7f4790.jpg"
+    },
+	{
+      "id":39,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/08/3e/68/083e6800b13b84070d51c3beacd38a1f.jpg"
+    },
+    {
+      "id": 40,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/36/f7/7d/36f77dd291d55f562aafaa8233973fa9.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/34/b6/b1/34b6b143dfe68d7b173e6012a26f7fdd.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Spring",
+      "title":"Spring",
+      "image":"https://i.pinimg.com/564x/c9/37/40/c93740b75289fa2d0ac5457e0ff5a519.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Spring",
+      "title": "Spring",
+      "image": "https://i.pinimg.com/564x/31/73/28/31732812e1d4200432488adb9bdef1bc.jpg"
+    }
+  ]
+}
