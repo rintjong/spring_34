@@ -2,9 +2,9 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
+      "select_backup_ads":"FACEBOOK",
       "main_ads_banner": "null",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xxx",
       "main_ads_rewards":"null",
       "backup_ads_banner":"null",
       "backup_ads_intertitial":"null",
@@ -12,7 +12,7 @@
       "open_ads_admob":"null",
       "open_ads_alien":"null",
       "open_ads_max":"null",
-      "interval_intertitial": 11,
+      "interval_intertitial": 13,
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
       "high_paying_keyword_1": "",
