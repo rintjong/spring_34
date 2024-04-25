@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"FACEBOOK",
+      "select_main_ads": "null",
+      "select_backup_ads":"null",
       "main_ads_banner": "null",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xxx",
+      "main_ads_intertitial":"null",
       "main_ads_rewards":"null",
       "backup_ads_banner":"null",
       "backup_ads_intertitial":"null",
@@ -22,7 +22,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":"2"
+      "on_off_category":"3"
     }
   ],
   "More":
